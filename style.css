@@ -1,0 +1,773 @@
+
+
+
+body{
+    height: auto;
+    margin:0px;
+    padding: 0px;
+    overflow-y: auto;
+}
+
+header{
+    background-color: yellow;
+    height: 75px;
+    width: 100%;
+}
+.menu{
+    width: 40px;
+    height:40px ;
+    margin-left: 60px; ;
+    margin-top: 15px;
+}
+.snap{
+    width: 35px;
+    height: 35px;
+    margin-left: 10px;
+}
+.ad{
+    text-decoration: none;
+    margin-left: 100px;
+    float:right;
+    margin-right: 475px;
+    font-size: 16px;
+    font-weight: 500;
+    color:#2c2d2e;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    margin-top: 15px;
+    
+}
+
+.ad:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.creators{
+    text-decoration: none;
+    margin-left: 100px;
+    float:right;
+    margin-right: 420px;
+    font-size: 16px;
+    font-weight: 500;
+    color:#2c2d2e;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    margin-top: -14px;
+}
+.creators:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.devol{
+    text-decoration: none;
+    margin-left: 100px;
+    float:right;
+    margin-right: 360px;
+    font-size: 16px;
+    font-weight: 500;
+    color:#2c2d2e;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    margin-top: -14px;
+}
+
+.devol:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.snapar{
+    text-decoration: none;
+    margin-left: 100px;
+    float:right;
+    margin-right: 310px;
+    font-size: 16px;
+    font-weight: 500;
+    color:#2c2d2e;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    margin-top: -14px;
+}
+.snapar:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.features{
+    text-decoration: none;
+    margin-left: 100px;
+    float:right;
+    margin-right: 260px;
+    font-size: 16px;
+    font-weight: 500;
+    color:#2c2d2e;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    margin-top: -14px;
+}
+
+.features:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+#download{
+    width: 180px;
+    height: 45px;
+    background-color: #fff;
+    float: right;
+    margin-right: 280px;
+    margin-top: -45px;
+    border-radius: 64px;
+    border: 0px solid;
+    cursor: pointer;
+   
+}
+
+.phn{
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-left: 15px;
+}
+.Downtext{
+    color: black;
+    float: right;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-right: 20px;
+    
+}
+#download:hover{
+margin-top: -47px;
+box-shadow: 2px 2px 5px 3px gray;
+}
+
+#log{
+    width: 220px;
+    height: 45px;
+    background-color:black;
+    float: right;
+    margin-right: 40px;
+    margin-top: -45px;
+    border-radius: 64px;
+    border: 0px solid;
+    cursor: pointer;
+}
+.lap{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 15px;
+}
+.logtext{
+    color: #fff;
+    float: right;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    margin-top: 13px;
+    margin-right: 20px;
+}
+#log:hover{
+    margin-top: -47px;
+    box-shadow: 2px 2px 5px 3px gray;
+    }
+    
+
+.content1{
+    width: 100%;
+    height: 475px;
+    background-color:yellow;
+    
+}
+.c1text{
+    float: left;
+    width: 400px;
+    height: 300px;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+.c1lap{
+    float: right;
+    width: 615px;
+    height: 380px;
+    margin-right: 240px;
+    margin-top: 70px;
+}
+
+#log2{
+    width: 220px;
+    height: 45px;
+    background-color:black;
+    float: left;
+    margin-left: 200px;
+    margin-top: 15px;
+    border-radius: 64px;
+    border: 0px solid;
+    cursor: pointer;   
+}.lap2{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 15px;
+}
+.logtext2{
+   
+    margin-top: 13px;
+    margin-right: 20px;
+}
+#log2:hover{
+    margin-top: 10px;
+    box-shadow: 2px 2px 5px 3px gray;
+    }
+
+.content2{
+    width: 100%;
+    height: 740px;
+    background-color:yellow;
+}
+ 
+
+.c2vid{
+    margin-left: 165px;
+    margin-top: 50px;
+    border-radius: 10px;
+    float: left;
+}
+.c2text{
+    width: 600px;
+    height: 150px;
+    margin-left: 50px;
+    margin-top: 200px;
+
+}
+#countries{ height: 60px;
+    width: 135px;
+    background-color: #fff;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color: black;
+    border-radius:12px ;
+    border: 0px solid;
+    position: relative;
+     top:50px ;
+     right: 600px;
+     
+    
+}
+.phnNo{
+    height: 60px;
+    width: 300px;
+    background-color: #fff;
+    color: black;
+    border-radius:12px ;
+    border: 0px solid;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    position: relative;
+    left: 210px;
+    bottom: 10px;
+    font-size: medium;
+   
+    
+       
+}
+.try{
+    height: 60px;
+    width: 135px;
+    background-color:black;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color: #fff;;
+    border-radius:64px ;
+    font-weight: 600;
+    font-size: medium;
+    border: 0px solid;
+    cursor: pointer;
+    position: relative;
+    left: 220px;
+    bottom: 10px;
+
+}
+.try:hover{
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px 3px gray;
+}
+
+.content3{
+    height: 700px;
+    width: 100%;
+    background-color:yellow;
+
+}
+
+.c3vid{
+    float: right;
+    border-radius:10px ;
+    position: relative;
+    top: 10px;
+    right: 160px;
+}
+.c3text{
+    width: 800px;
+    height: 150px;
+    position: relative;
+    left: 150px;
+    top: 200px;
+}
+#countries2{
+    height: 60px;
+    width: 135px;
+    background-color: #fff;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color: black;
+    border-radius:12px ;
+    border: 0px solid;
+    position: relative;
+    top: 350p;
+    position: relative;
+    right: 620px;
+    top: 250px;
+}
+.phnNo3{
+    height: 60px;
+    width: 300px;
+    background-color: #fff;
+    color: black;
+    border-radius:12px ;
+    border: 0px solid;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    position: relative;
+    top: 190px;
+    left: 340px;
+}
+
+.find{
+    height: 60px;
+    width: 250px;
+    background-color:black;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color: #fff;;
+    border-radius:64px ;
+    font-weight: 600;
+    font-size: medium;
+    border: 0px solid;
+    cursor: pointer; 
+    position: relative; 
+    top: 190px; 
+    left: 360px;
+
+}
+.find:hover{
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px 3px gray;
+}
+.content4{
+    width: 100%;
+    height: 700px;
+    background-color:yellow;
+}
+.c4vid{
+    
+    border-radius:10px ;
+    position: relative;
+    top: 10px;
+   left : 160px;
+}
+.c4text{
+    width: 670px;
+    height: 150px;
+    position: relative;
+    left: 200px;
+    bottom: 300px;
+
+}
+#countries4{
+    height: 60px;
+    width: 135px;
+    background-color: #fff;
+    color: black;
+    border-radius:12px ;
+    border: 0px solid;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    position: relative;
+      bottom: 250px;
+      right: 450px;
+    font-size: medium;
+}
+.phnNo4{
+    height: 60px;
+    width: 300px;
+    background-color: #fff;
+    color: black;
+    border-radius:12px ;
+    border: 0px solid;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    position: relative;
+    bottom: 250px;
+    right: 430px;
+}
+.open{
+    float: right;
+    height: 60px;
+    width: 220px;
+    background-color:black;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color: #fff;;
+    border-radius:64px ;
+    font-weight: 600;
+    font-size: medium;
+    border: 0px solid;
+    cursor: pointer;   
+    position: relative;
+    bottom: 310px;
+    right: 210px;
+}
+.open:hover{
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px 3px gray;
+}
+
+.content5{
+    height: 700px;
+    width: 100%;
+    background-color:yellow;
+
+}
+.c5vid{
+    float: right;
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+    
+}
+.c5text{
+    width: 750px;
+    height: 160px;
+    position: relative;
+    top: 150px;
+    left: 140px;
+}
+#countries5{
+    height: 60px;
+    width: 135px;
+    background-color: #fff;
+    color: black;
+    border-radius:12px ;
+    border: 0px solid;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    position: relative;
+        top: 200px;
+        right: 580px;
+        
+}
+.phnNo5{
+    height: 60px;
+    width: 300px;
+    background-color: #fff;
+    color: black;
+    border-radius:12px ;
+    border: 0px solid;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    position: relative;
+    top: 140px;
+    left: 330px;
+}
+.explore{
+    float: right;
+    height: 60px;
+    width: 220px;
+    background-color:black;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color: #fff;;
+    border-radius:64px ;
+    font-weight: 600;
+    font-size: medium;
+    border: 0px solid;
+    cursor: pointer;   
+    position: relative;   
+    top: 140px;
+    right: 50px;
+}
+.explore:hover{
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px 3px gray;
+}
+.content6{
+    height: 700px;
+    width: 100%;
+    background-color:yellow;
+}
+
+
+
+.c6pic{
+  width: 350px;
+  height: 250px;
+  position: relative;
+    left: 650px;
+    top: 100px;
+
+}
+
+#countries6{
+    height: 60px;
+    width: 135px;
+    background-color: #fff;
+    color: black;
+    border-radius:12px ;
+    border: 0px solid;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    position: relative;
+     top: 180px;
+     left: 160px;
+}
+
+.phnNo6{
+    height: 60px;
+    width: 300px;
+    background-color: #fff;
+    color: black;
+    border-radius:12px ;
+    border: 0px solid;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    position: relative;
+    top: 180px;
+    left: 180px;
+}
+
+.send{
+    float: right;
+    height: 60px;
+    width: 220px;
+    background-color:black;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color: #fff;;
+    border-radius:64px ;
+    font-weight: 600;
+    font-size: medium;
+    border: 0px solid;
+    cursor: pointer;   
+    position: relative;   
+     top: 400px;
+     right: 290px;
+}
+
+.send:hover{
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px 3px gray;
+}
+.advertiser{
+    height: 60px;
+    width: 200px;
+    background-color:yellow;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color:black;
+    border-radius:64px ;
+    font-weight: 600;
+    font-size: medium;
+    border: 0px solid;
+    cursor: pointer;   
+    letter-spacing: 1px;
+    position: relative;
+     top: 350px; 
+     right: 280px; 
+
+}
+
+.advertiser:hover{
+    top: 345px;
+    box-shadow: 2px 2px 5px 3px gray;
+}
+
+.creators2{
+    height: 60px;
+    width: 200px;
+    background-color:yellow;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color:black;
+    border-radius:64px ;
+    font-weight: 600;
+    font-size: medium;
+    border: 0px solid;
+    text-decoration: none;
+    cursor: pointer;   
+    letter-spacing: 1px;
+    position: relative;
+    top: 350px;
+    right: 250px;
+
+}
+
+.creators2:hover{
+    top: 345px;
+    box-shadow: 2px 2px 5px 3px gray;
+}
+
+.developers{
+    float: right;
+    height: 60px;
+    width: 200px;
+    background-color:yellow;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color:black;
+    border-radius:64px ;
+    font-weight: 600;
+    font-size: medium;
+    border: 0px solid;
+    text-decoration: none;
+    cursor: pointer;   
+    letter-spacing: 1px;
+    position: relative;
+     top: 290px;
+     right: 300px;
+    
+
+}
+ 
+.developers:hover{
+    top: 285px;
+    box-shadow: 2px 2px 5px 3px gray;
+}
+footer{
+    height: 320px;
+    width: 100%;
+    background-color:#fff;
+}
+.first{
+    width: 100%;
+    height: 430px;
+    background-color: #fff;
+    overflow: hidden;
+}
+.company{
+    height: 120px;
+    width: 120px;
+    background-color:#fff;
+    position: relative;
+    left: 300px;
+    top: 50px;
+   
+
+
+}
+.Hcompany{
+    font-size: 14px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color:black;
+    font-weight: 600;
+
+}
+.list{
+    font-size: 14px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color:black;
+    list-style-type:none;
+    float: left;
+    position: relative;
+    right: 38px;
+    bottom: 30px;
+    line-height:20px ;
+}
+.list:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.community{
+    height: 150px;
+    width: 220px;
+    background-color:#fff;
+    position: relative;
+    bottom: 90px;
+    left: 450px;
+    
+}
+
+.Hcommunity{
+    font-size: 14px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color:black;
+    font-weight: 600;
+    
+    
+}
+.advertising{
+   height: 150px;
+    width: 160px;
+    position: relative;
+    bottom: 265px;
+    left: 650px;
+}
+.Hadvertising{
+    font-size: 14px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color:black;
+    font-weight: 600;
+}
+.legal{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 440px;
+    left: 850px;
+}
+.Hlegal{
+    font-size: 14px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color:black;
+    font-weight: 600;
+    position: relative;
+    right:160px ;
+}
+.language{
+    width: 300px;
+    height: 130px;
+    background-color:#fff;
+    position: relative;
+    bottom:580px ;
+    left: 300px;
+}
+.Hlang{
+    font-size: 14px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    color:black;
+    font-weight: 600;
+}
+#lang{
+    height: 50px;
+    width: 200px;
+    background-color:#F7F8F9;;
+    color: black;
+    border-radius:10px ;
+    border: 0px solid;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    position: relative;
+    left:10px ;
+    bottom:15px ;
+}
+.second{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+
+    
+}
+.privacy{
+ font-weight: 700;
+ font-size: 14px;
+ font-family: 'Graphik', Helvetica, sans-serif;
+ cursor: pointer;
+ text-decoration: none;
+ color: #fff;
+ position: relative;
+ left: 400px;
+ top: 20px;
+}
+.terms{
+    font-weight: 700;
+ font-size: 14px;
+ font-family: 'Graphik', Helvetica, sans-serif;
+ cursor: pointer;
+ text-decoration: none;
+ color: #fff;
+ position: relative;
+ left: 500px;
+ top: 20px;
+}
